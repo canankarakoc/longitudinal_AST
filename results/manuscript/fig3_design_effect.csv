@@ -1,0 +1,5 @@
+class,k,agents,rho,m_eff_per_colony
+Aminoglycoside,3,gentamicin+amikacin+tobramycin,0.5686897442793564,1.4035879056849063
+Carbapenem,1,meropenem,NA,1
+Fluoroquinolone,1,levofloxacin,NA,1
+Cephalosporin,2,cefepime+ceftazidime,0.5992371600030212,1.2505962530261752

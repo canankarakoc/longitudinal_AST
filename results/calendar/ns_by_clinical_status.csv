@@ -1,0 +1,17 @@
+drug,status,n,NS
+cefepime,APE IV Antibiotics,567,0.6666666666666666
+cefepime,APE Outpatient,304,0.6085526315789473
+cefepime,Clinically Stable,680,0.5161764705882353
+cefepime,unknown,51,0.6666666666666666
+levofloxacin,APE IV Antibiotics,566,0.7756183745583038
+levofloxacin,APE Outpatient,305,0.6983606557377049
+levofloxacin,Clinically Stable,679,0.7039764359351989
+levofloxacin,unknown,51,0.7843137254901961
+meropenem,APE IV Antibiotics,562,0.5124555160142349
+meropenem,APE Outpatient,301,0.38205980066445183
+meropenem,Clinically Stable,675,0.38074074074074077
+meropenem,unknown,51,0.43137254901960786
+tobramycin,APE IV Antibiotics,565,0.4230088495575221
+tobramycin,APE Outpatient,302,0.34105960264900664
+tobramycin,Clinically Stable,672,0.33779761904761907
+tobramycin,unknown,49,0.42857142857142855

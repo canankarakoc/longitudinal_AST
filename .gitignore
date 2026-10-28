@@ -1,0 +1,62 @@
+# longitudinal_AST - ALLOWLIST. Everything is ignored unless it is listed here.
+#
+# Patient data are not shareable (IRB). They live in data/ and never leave it.
+# Fitted models (*.rds: brms fits store the data they were fitted to),
+# R workspaces, patient-level outputs, slides and posters stay local.
+# To publish something new, add a "!" line for it below - never remove a rule
+# from the final block.
+
+/*
+
+# ---- code ------------------------------------------------------------------
+!/.gitignore
+!/README.md
+!/LICENSE
+!/run_pipeline.sh
+!/analytical_data_prep.R
+!/data_inspection_summary.R
+!/AMR_common.R
+!/AMR_pipeline.R
+!/AMR_sir_ordinal.R
+!/AMR_msccm_ecology.R
+!/AMR_figures_manuscript.R
+!/analyses/
+
+# ---- data folder: its README only ------------------------------------------
+!/data/
+/data/*
+!/data/README.md
+
+# ---- figures: the manuscript set, under manuscript numbers -----------------
+!/figures/
+/figures/*
+!/figures/submission/
+
+# ---- results: the numbers behind figures and tables ------------------------
+!/results/
+/results/*
+!/results/manuscript/
+!/results/deep/
+!/results/reliability_split/
+!/results/sir_matrix/
+!/results/pseudo_trajectories/
+!/results/deep_downsampling/
+!/results/design_estimand/
+!/results/power_recalibrated/
+!/results/calendar/
+
+# ---- never, wherever they are (last, so these win) -------------------------
+*.rds
+*.rda
+*.RData
+.Rhistory
+.Rproj.user/
+*.xlsx
+*.docx
+*.tiff
+*.tif
+.DS_Store
+Rplots.pdf
+*per_patient*
+*crosswalk*
+/results/manuscript/manuscript_numbers.*

@@ -1,0 +1,11 @@
+sample,drug,mode,n_detect_95,n_dominant_90,n_switch_plur_10,n_switch_worst_10
+P1 (cohort id 7),amikacin,mean,4,NA,NA,30
+P1 (cohort id 7),amikacin,single,4,NA,NA,15
+P1 (cohort id 7),ciprofloxacin,mean,1,1,3,2
+P1 (cohort id 7),ciprofloxacin,single,1,1,1,1
+P3 (cohort id 38),ceftazidime,mean,NA,1,3,NA
+P3 (cohort id 38),ceftazidime,single,NA,1,3,NA
+P3 (cohort id 38),ciprofloxacin,mean,1,5,8,3
+P3 (cohort id 38),ciprofloxacin,single,1,3,5,2
+P3 (cohort id 38),piperacillin-tazobactam,mean,NA,1,1,1
+P3 (cohort id 38),piperacillin-tazobactam,single,NA,1,1,1

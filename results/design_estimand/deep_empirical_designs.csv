@@ -1,0 +1,36 @@
+sample,drug,theta_NS,design,p_report_NS,freq_mae,dominant_correct,false_change_detect,false_change_dominant
+P1 (cohort id 7),amikacin,0.5733333333333334,"pooled-10, NS if >= 1%",0.99975,NA,0.99975,5e-4,5e-4
+P1 (cohort id 7),amikacin,0.5733333333333334,"pooled-10, NS if >= 50%",0.8005,NA,0.8005,0.308,0.308
+P1 (cohort id 7),amikacin,0.5733333333333334,random-1,0.5695,0.48980666666666667,0.5695,0.496,0.496
+P1 (cohort id 7),amikacin,0.5733333333333334,random-4,0.96975,0.2047466666666667,0.61325,0.0595,0.4685
+P1 (cohort id 7),amikacin,0.5733333333333334,random-8,0.99975,0.1372316666666667,0.66925,5e-4,0.4305
+P1 (cohort id 7),amikacin,0.5733333333333334,"whole sputum, NS if >= 1%",1,NA,1,0,0
+P1 (cohort id 7),amikacin,0.5733333333333334,"whole sputum, NS if >= 50%",1,NA,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,"pooled-10, NS if >= 1%",1,NA,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,"pooled-10, NS if >= 50%",1,NA,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,random-1,1,0,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,random-4,1,0,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,random-8,1,0,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,"whole sputum, NS if >= 1%",1,NA,1,0,0
+P1 (cohort id 7),ciprofloxacin,1,"whole sputum, NS if >= 50%",1,NA,1,0,0
+P3 (cohort id 38),ceftazidime,0.06666666666666667,"pooled-10, NS if >= 1%",0.52225,NA,0.47775,0.4875,0.4875
+P3 (cohort id 38),ceftazidime,0.06666666666666667,"pooled-10, NS if >= 50%",0,NA,1,0,0
+P3 (cohort id 38),ceftazidime,0.06666666666666667,random-1,0.06575,0.12364999999999976,0.93425,0.1255,0.1255
+P3 (cohort id 38),ceftazidime,0.06666666666666667,random-4,0.23375,0.10068749999999999,0.9855,0.3555,0.029
+P3 (cohort id 38),ceftazidime,0.06666666666666667,random-8,0.4455,0.075579166666666725,1,0.51,0
+P3 (cohort id 38),ceftazidime,0.06666666666666667,"whole sputum, NS if >= 1%",1,NA,0,0,0
+P3 (cohort id 38),ceftazidime,0.06666666666666667,"whole sputum, NS if >= 50%",0,NA,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,"pooled-10, NS if >= 1%",1,NA,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,"pooled-10, NS if >= 50%",1,NA,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,random-1,1,0,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,random-4,1,0,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,random-8,1,0,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,"whole sputum, NS if >= 1%",1,NA,1,0,0
+P3 (cohort id 38),ciprofloxacin,1,"whole sputum, NS if >= 50%",1,NA,1,0,0
+P3 (cohort id 38),piperacillin-tazobactam,0.04,"pooled-10, NS if >= 1%",0.35575,NA,0.64425,0.4585,0.4585
+P3 (cohort id 38),piperacillin-tazobactam,0.04,"pooled-10, NS if >= 50%",0,NA,1,0,0
+P3 (cohort id 38),piperacillin-tazobactam,0.04,random-1,0.038,0.07495999999999997,0.962,0.076,0.076
+P3 (cohort id 38),piperacillin-tazobactam,0.04,random-4,0.14975,0.06683250000000003,0.99675,0.2665,0.0065
+P3 (cohort id 38),piperacillin-tazobactam,0.04,random-8,0.27775,0.055967499999999996,1,0.3935,0
+P3 (cohort id 38),piperacillin-tazobactam,0.04,"whole sputum, NS if >= 1%",1,NA,0,0,0
+P3 (cohort id 38),piperacillin-tazobactam,0.04,"whole sputum, NS if >= 50%",0,NA,1,0,0

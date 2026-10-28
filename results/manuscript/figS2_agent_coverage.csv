@@ -1,0 +1,13 @@
+agent,label,cls,n,pct
+amikacin,Amikacin,Aminoglycoside,1593,88.84551031790295
+tobramycin,Tobramycin,Aminoglycoside,1588,88.56664807585052
+gentamicin,Gentamicin,Aminoglycoside,1594,88.90128276631344
+meropenem,Meropenem,Carbapenem,1589,88.62242052426102
+imipenem,Imipenem,Carbapenem,14,0.7808142777467931
+levofloxacin,Levofloxacin,Fluoroquinolone,1601,89.29168990518684
+ciprofloxacin,Ciprofloxacin,Fluoroquinolone,8,0.44617958728388174
+cefepime,Cefepime,Cephalosporin,1602,89.34746235359732
+ceftazidime,Ceftazidime,Cephalosporin,1589,88.62242052426102
+piperacillin_tazobactam,Piperacillin–tazobactam,Other,1574,87.78583379810374
+aztreonam,Aztreonam,Other,1364,76.07361963190183
+colistin,Colistin,Other,1098,61.23814835471277

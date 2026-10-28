@@ -1,0 +1,13 @@
+patient,drug,n,pctR,pctI,pctS
+P1  (heterogeneous),Aminoglycoside (amikacin),75,11,47,43
+P1  (heterogeneous),Aminoglycoside (tobramycin),75,100,0,0
+P1  (heterogeneous),Carbapenem (meropenem),75,0,0,100
+P1  (heterogeneous),Cephalosporin (ceftazidime),75,0,0,100
+P1  (heterogeneous),Fluoroquinolone (cipro),75,95,5,0
+P1  (heterogeneous),Penicillin (pip-tazo),75,0,0,100
+P3  (tight),Aminoglycoside (amikacin),75,0,0,100
+P3  (tight),Aminoglycoside (tobramycin),75,0,0,100
+P3  (tight),Carbapenem (meropenem),75,0,0,100
+P3  (tight),Cephalosporin (ceftazidime),75,0,7,93
+P3  (tight),Fluoroquinolone (cipro),75,76,24,0
+P3  (tight),Penicillin (pip-tazo),75,0,4,96

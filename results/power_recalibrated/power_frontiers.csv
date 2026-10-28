@@ -1,0 +1,271 @@
+lever,dt,L,m,x,followup_days,budget,N,power_step,power_coupling,params,se_step,se_coupling
+interval (L fixed),14,12,1.5,14,154,N fixed at 90,90,0.462,0.0765,Aminoglycoside (fitted tau),0.011148004305704229,0.005943389184631947
+interval (L fixed),28,12,1.5,28,308,N fixed at 90,90,0.4005,0.131,Aminoglycoside (fitted tau),0.01095672738549244,0.00754450130890041
+interval (L fixed),42,12,1.5,42,462,N fixed at 90,90,0.3985,0.2465,Aminoglycoside (fitted tau),0.010947551096021428,0.009636849848368502
+interval (L fixed),56,12,1.5,56,616,N fixed at 90,90,0.4215,0.3205,Aminoglycoside (fitted tau),0.01104168805029376,0.010435031145137996
+interval (L fixed),84,12,1.5,84,924,N fixed at 90,90,0.446,0.4205,Aminoglycoside (fitted tau),0.011114944894150398,0.011038110119037587
+interval (L fixed),126,12,1.5,126,1386,N fixed at 90,90,0.4855,0.4625,Aminoglycoside (fitted tau),0.011175637565705143,0.011148850837642416
+interval (L fixed),168,12,1.5,168,1848,N fixed at 90,90,0.5125,0.415,Aminoglycoside (fitted tau),0.011176845485198407,0.011017599557072311
+visits (follow-up fixed),308,4,1.5,4,924,N fixed at 90,90,0.2675,0.0835,Aminoglycoside (fitted tau),0.009898074307662071,0.006185780063985464
+visits (follow-up fixed),184.8,6,1.5,6,924,N fixed at 90,90,0.337,0.168,Aminoglycoside (fitted tau),0.01056955533596376,0.008359904305672404
+visits (follow-up fixed),132,8,1.5,8,924,N fixed at 90,90,0.375,0.2865,Aminoglycoside (fitted tau),0.010825317547305483,0.010109840503192916
+visits (follow-up fixed),84,12,1.5,12,924,N fixed at 90,90,0.4285,0.4515,Aminoglycoside (fitted tau),0.011065436051055557,0.011127617669564317
+visits (follow-up fixed),61.6,16,1.5,16,924,N fixed at 90,90,0.471,0.488,Aminoglycoside (fitted tau),0.011161518713866855,0.011177119485806708
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,N fixed at 90,90,0.5135,0.5695,Aminoglycoside (fitted tau),0.011176263910627737,0.011071805408333366
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,N fixed at 90,90,0.541,0.62,Aminoglycoside (fitted tau),0.01114268818553225,0.010853570840972108
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,N fixed at 90,90,0.532,0.6475,Aminoglycoside (fitted tau),0.011157419056394717,0.01068278404724162
+follow-up (interval fixed),84,4,1.5,4,252,N fixed at 90,90,0.2635,0.078,Aminoglycoside (fitted tau),0.009850577394244461,0.005996498978570746
+follow-up (interval fixed),84,6,1.5,6,420,N fixed at 90,90,0.308,0.1415,Aminoglycoside (fitted tau),0.010323177805307822,0.007793514932301086
+follow-up (interval fixed),84,8,1.5,8,588,N fixed at 90,90,0.352,0.211,Aminoglycoside (fitted tau),0.010679325821417755,0.009123568380847484
+follow-up (interval fixed),84,12,1.5,12,924,N fixed at 90,90,0.457,0.422,Aminoglycoside (fitted tau),0.011138918259867068,0.011043459602859967
+follow-up (interval fixed),84,16,1.5,16,1260,N fixed at 90,90,0.5235,0.556,Aminoglycoside (fitted tau),0.01116798437498907,0.011109995499549044
+follow-up (interval fixed),84,24,1.5,24,1932,N fixed at 90,90,0.6765,0.811,Aminoglycoside (fitted tau),0.010460586742625864,0.00875439889427024
+follow-up (interval fixed),84,32,1.5,32,2604,N fixed at 90,90,0.779,0.9235,Aminoglycoside (fitted tau),0.009277903858092086,0.005943389184631948
+follow-up (interval fixed),84,48,1.5,48,3948,N fixed at 90,90,0.8945,0.985,Aminoglycoside (fitted tau),0.006869124762296869,0.002717995584985378
+depth,84,12,1,1,924,N fixed at 90,90,0.418,0.3545,Aminoglycoside (fitted tau),0.011028961873177366,0.010696488909918056
+depth,84,12,1.5,1.5,924,N fixed at 90,90,0.442,0.4385,Aminoglycoside (fitted tau),0.011104863799254811,0.011095443884766396
+depth,84,12,2,2,924,N fixed at 90,90,0.454,0.501,Aminoglycoside (fitted tau),0.011132924144177037,0.011180317526796813
+depth,84,12,3,3,924,N fixed at 90,90,0.4725,0.5585,Aminoglycoside (fitted tau),0.011163416815652813,0.011103552359492884
+depth,84,12,4,4,924,N fixed at 90,90,0.5075,0.579,Aminoglycoside (fitted tau),0.011179082028503056,0.011039904890894667
+depth,84,12,6,6,924,N fixed at 90,90,0.5165,0.644,Aminoglycoside (fitted tau),0.011174250534152167,0.010706633457814833
+depth,84,12,8,8,924,N fixed at 90,90,0.51,0.637,Aminoglycoside (fitted tau),0.011178103595869918,0.010752464833702085
+interval (L fixed),14,12,1.5,14,154,fixed cost: base,90,0.4465,0.0745,Aminoglycoside (fitted tau),0.011116153786269782,0.005871530890662162
+interval (L fixed),28,12,1.5,28,308,fixed cost: base,90,0.3855,0.141,Aminoglycoside (fitted tau),0.010883238258900703,0.007781998457979801
+interval (L fixed),42,12,1.5,42,462,fixed cost: base,90,0.402,0.236,Aminoglycoside (fitted tau),0.010963484847437881,0.009494840704298308
+interval (L fixed),56,12,1.5,56,616,fixed cost: base,90,0.4055,0.3025,Aminoglycoside (fitted tau),0.010978837597851605,0.010271167168340705
+interval (L fixed),84,12,1.5,84,924,fixed cost: base,90,0.4495,0.419,Aminoglycoside (fitted tau),0.011123168388548292,0.011032656071862296
+interval (L fixed),126,12,1.5,126,1386,fixed cost: base,90,0.4835,0.467,Aminoglycoside (fitted tau),0.011174250534152167,0.011155962531310331
+interval (L fixed),168,12,1.5,168,1848,fixed cost: base,90,0.525,0.4375,Aminoglycoside (fitted tau),0.011166355717063647,0.01109264959331178
+visits (follow-up fixed),308,4,1.5,4,924,fixed cost: base,164,0.428,0.0915,Aminoglycoside (fitted tau),0.011063814893606997,0.00644700511865781
+visits (follow-up fixed),184.8,6,1.5,6,924,fixed cost: base,136,0.4895,0.242,Aminoglycoside (fitted tau),0.011177874350698346,0.009576951498258723
+visits (follow-up fixed),132,8,1.5,8,924,fixed cost: base,116,0.484,0.33,Aminoglycoside (fitted tau),0.011174614087296258,0.01051427600931229
+visits (follow-up fixed),84,12,1.5,12,924,fixed cost: base,90,0.4515,0.4175,Aminoglycoside (fitted tau),0.011127617669564317,0.011027097306181713
+visits (follow-up fixed),61.6,16,1.5,16,924,fixed cost: base,73,0.404,0.438,Aminoglycoside (fitted tau),0.010972328832112169,0.01109405246066558
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,fixed cost: base,53,0.32,0.3715,Aminoglycoside (fitted tau),0.010430723848324237,0.010804807957571482
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,fixed cost: base,42,0.2615,0.3315,Aminoglycoside (fitted tau),0.009826437553864574,0.010526341957204316
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,fixed cost: base,29,0.211,0.237,Aminoglycoside (fitted tau),0.009123568380847484,0.009508706536643142
+follow-up (interval fixed),84,4,1.5,4,252,fixed cost: base,164,0.4335,0.115,Aminoglycoside (fitted tau),0.011081014168387296,0.007133547504573023
+follow-up (interval fixed),84,6,1.5,6,420,fixed cost: base,136,0.4475,0.203,Aminoglycoside (fitted tau),0.011118537448783451,0.00899419257076476
+follow-up (interval fixed),84,8,1.5,8,588,fixed cost: base,116,0.4415,0.293,Aminoglycoside (fitted tau),0.011103552359492884,0.010177204920802175
+follow-up (interval fixed),84,12,1.5,12,924,fixed cost: base,90,0.439,0.4145,Aminoglycoside (fitted tau),0.011096823869918815,0.011015664982196945
+follow-up (interval fixed),84,16,1.5,16,1260,fixed cost: base,73,0.417,0.4885,Aminoglycoside (fitted tau),0.011025221086218633,0.01117738229640554
+follow-up (interval fixed),84,24,1.5,24,1932,fixed cost: base,53,0.4295,0.5645,Aminoglycoside (fitted tau),0.011068643774193837,0.011086923603957953
+follow-up (interval fixed),84,32,1.5,32,2604,fixed cost: base,42,0.4275,0.634,Aminoglycoside (fitted tau),0.011062182198824967,0.010771350890208711
+follow-up (interval fixed),84,48,1.5,48,3948,fixed cost: base,29,0.434,0.614,Aminoglycoside (fitted tau),0.011082508741255295,0.01088586239119345
+depth,84,12,1,1,924,fixed cost: base,99,0.448,0.4005,Aminoglycoside (fitted tau),0.011119712226492195,0.01095672738549244
+depth,84,12,1.5,1.5,924,fixed cost: base,90,0.423,0.404,Aminoglycoside (fitted tau),0.011046967909793166,0.010972328832112169
+depth,84,12,2,2,924,fixed cost: base,82,0.436,0.4545,Aminoglycoside (fitted tau),0.011088372288122365,0.011133951454896865
+depth,84,12,3,3,924,fixed cost: base,69,0.393,0.4705,Aminoglycoside (fitted tau),0.010921332336304029,0.011160863541859115
+depth,84,12,4,4,924,fixed cost: base,60,0.346,0.4395,Aminoglycoside (fitted tau),0.010636822833910509,0.011098192420389907
+depth,84,12,6,6,924,fixed cost: base,48,0.31,0.3945,Aminoglycoside (fitted tau),0.010341663309158734,0.010928626400421967
+depth,84,12,8,8,924,fixed cost: base,39,0.259,0.329,Aminoglycoside (fitted tau),0.009795891996137973,0.010506164856882839
+interval (L fixed),14,12,1.5,14,154,fixed cost: visits dear,90,0.4525,0.074,Aminoglycoside (fitted tau),0.011129774256470793,0.005853375094763704
+interval (L fixed),28,12,1.5,28,308,fixed cost: visits dear,90,0.404,0.1375,Aminoglycoside (fitted tau),0.010972328832112169,0.00770044641563072
+interval (L fixed),42,12,1.5,42,462,fixed cost: visits dear,90,0.394,0.232,Aminoglycoside (fitted tau),0.0109262070271435,0.009438643970401681
+interval (L fixed),56,12,1.5,56,616,fixed cost: visits dear,90,0.4005,0.315,Aminoglycoside (fitted tau),0.01095672738549244,0.010386890776358439
+interval (L fixed),84,12,1.5,84,924,fixed cost: visits dear,90,0.4405,0.4215,Aminoglycoside (fitted tau),0.01110089523416918,0.01104168805029376
+interval (L fixed),126,12,1.5,126,1386,fixed cost: visits dear,90,0.486,0.444,Aminoglycoside (fitted tau),0.011175956334918278,0.011109995499549044
+interval (L fixed),168,12,1.5,168,1848,fixed cost: visits dear,90,0.54,0.411,Aminoglycoside (fitted tau),0.011144505372604026,0.011001795308039502
+visits (follow-up fixed),308,4,1.5,4,924,fixed cost: visits dear,215,0.5415,0.0955,Aminoglycoside (fitted tau),0.011141762652291602,0.006571900410079264
+visits (follow-up fixed),184.8,6,1.5,6,924,fixed cost: visits dear,159,0.506,0.252,Aminoglycoside (fitted tau),0.01117953487404552,0.009708140913686821
+visits (follow-up fixed),132,8,1.5,8,924,fixed cost: visits dear,126,0.5135,0.361,Aminoglycoside (fitted tau),0.011176263910627737,0.01073962289840756
+visits (follow-up fixed),84,12,1.5,12,924,fixed cost: visits dear,90,0.4505,0.4115,Aminoglycoside (fitted tau),0.011125415722569651,0.01100381183953997
+visits (follow-up fixed),61.6,16,1.5,16,924,fixed cost: visits dear,69,0.386,0.4035,Aminoglycoside (fitted tau),0.01088586239119345,0.010970135596244926
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,fixed cost: visits dear,48,0.3035,0.322,Aminoglycoside (fitted tau),0.010280752647544827,0.010447870596442128
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,fixed cost: visits dear,36,0.2145,0.2965,Aminoglycoside (fitted tau),0.009178500694557909,0.010212437270309179
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,fixed cost: visits dear,24,0.1655,0.2115,Aminoglycoside (fitted tau),0.008309926293295267,0.00913147715323211
+follow-up (interval fixed),84,4,1.5,4,252,fixed cost: visits dear,215,0.5575,0.11,Aminoglycoside (fitted tau),0.01110616382915361,0.006996427659884721
+follow-up (interval fixed),84,6,1.5,6,420,fixed cost: visits dear,159,0.511,0.235,Aminoglycoside (fitted tau),0.01117763391778421,0.009480901855836289
+follow-up (interval fixed),84,8,1.5,8,588,fixed cost: visits dear,126,0.4855,0.2925,Aminoglycoside (fitted tau),0.011175637565705143,0.01017211261243209
+follow-up (interval fixed),84,12,1.5,12,924,fixed cost: visits dear,90,0.4455,0.425,Aminoglycoside (fitted tau),0.011113724623185514,0.011053845484717072
+follow-up (interval fixed),84,16,1.5,16,1260,fixed cost: visits dear,69,0.41,0.4615,Aminoglycoside (fitted tau),0.010997727037892875,0.011147146495852649
+follow-up (interval fixed),84,24,1.5,24,1932,fixed cost: visits dear,48,0.374,0.5405,Aminoglycoside (fitted tau),0.010819519397829092,0.011143602424709884
+follow-up (interval fixed),84,32,1.5,32,2604,fixed cost: visits dear,36,0.387,0.544,Aminoglycoside (fitted tau),0.010891074327172687,0.011136965475388706
+follow-up (interval fixed),84,48,1.5,48,3948,fixed cost: visits dear,24,0.342,0.524,Aminoglycoside (fitted tau),0.010607450211997226,0.011167452708652945
+depth,84,12,1,1,924,fixed cost: visits dear,93,0.4335,0.369,Aminoglycoside (fitted tau),0.011081014168387296,0.010789786837560785
+depth,84,12,1.5,1.5,924,fixed cost: visits dear,90,0.4525,0.424,Aminoglycoside (fitted tau),0.011129774256470793,0.011050429855892486
+depth,84,12,2,2,924,fixed cost: visits dear,86,0.4615,0.4685,Aminoglycoside (fitted tau),0.011147146495852649,0.011158130443761625
+depth,84,12,3,3,924,fixed cost: visits dear,80,0.4535,0.513,Aminoglycoside (fitted tau),0.011131885509651992,0.011176560293757645
+depth,84,12,4,4,924,fixed cost: visits dear,75,0.441,0.517,Aminoglycoside (fitted tau),0.011102229505824495,0.011173875782377394
+depth,84,12,6,6,924,fixed cost: visits dear,67,0.422,0.5155,Aminoglycoside (fitted tau),0.011043459602859967,0.011174966442902636
+depth,84,12,8,8,924,fixed cost: visits dear,60,0.3735,0.4965,Aminoglycoside (fitted tau),0.010816601823123564,0.011180065965816124
+interval (L fixed),14,12,1.5,14,154,N fixed at 90,90,0.376,0.078,"Aminoglycoside, tau = 60 d",0.010831066429488834,0.005996498978570746
+interval (L fixed),28,12,1.5,28,308,N fixed at 90,90,0.4055,0.1215,"Aminoglycoside, tau = 60 d",0.010978837597851605,0.0073054003997043175
+interval (L fixed),42,12,1.5,42,462,N fixed at 90,90,0.455,0.153,"Aminoglycoside, tau = 60 d",0.011134967444945675,0.008049565205649308
+interval (L fixed),56,12,1.5,56,616,N fixed at 90,90,0.48,0.1555,"Aminoglycoside, tau = 60 d",0.011171392035015153,0.008103078118838545
+interval (L fixed),84,12,1.5,84,924,N fixed at 90,90,0.545,0.1235,"Aminoglycoside, tau = 60 d",0.011134967444945675,0.007356893026271349
+interval (L fixed),126,12,1.5,126,1386,N fixed at 90,90,0.589,0.097,"Aminoglycoside, tau = 60 d",0.011001795308039502,0.006617816860566633
+interval (L fixed),168,12,1.5,168,1848,N fixed at 90,90,0.599,0.0665,"Aminoglycoside, tau = 60 d",0.010958991741944146,0.005571254347092763
+visits (follow-up fixed),308,4,1.5,4,924,N fixed at 90,90,0.2805,0.056,"Aminoglycoside, tau = 60 d",0.010045390734063062,0.005141206084179081
+visits (follow-up fixed),184.8,6,1.5,6,924,N fixed at 90,90,0.372,0.0525,"Aminoglycoside, tau = 60 d",0.010807774979152739,0.004987171041783107
+visits (follow-up fixed),132,8,1.5,8,924,N fixed at 90,90,0.417,0.073,"Aminoglycoside, tau = 60 d",0.011025221086218633,0.005816829033072916
+visits (follow-up fixed),84,12,1.5,12,924,N fixed at 90,90,0.5595,0.1285,"Aminoglycoside, tau = 60 d",0.01110089523416918,0.007482905518580333
+visits (follow-up fixed),61.6,16,1.5,16,924,N fixed at 90,90,0.598,0.201,"Aminoglycoside, tau = 60 d",0.010963484847437881,0.008960998828255698
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,N fixed at 90,90,0.679,0.283,"Aminoglycoside, tau = 60 d",0.01043932469080256,0.010072512099769353
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,N fixed at 90,90,0.6945,0.353,"Aminoglycoside, tau = 60 d",0.010299751210587564,0.010686229456641851
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,N fixed at 90,90,0.7355,0.391,"Aminoglycoside, tau = 60 d",0.00986254911267873,0.010911438951852316
+follow-up (interval fixed),84,4,1.5,4,252,N fixed at 90,90,0.2515,0.0725,"Aminoglycoside, tau = 60 d",0.0097017459768847791,0.005798437289477226
+follow-up (interval fixed),84,6,1.5,6,420,N fixed at 90,90,0.334,0.077,"Aminoglycoside, tau = 60 d",0.010546184144039966,0.0059611659933271445
+follow-up (interval fixed),84,8,1.5,8,588,N fixed at 90,90,0.397,0.0865,"Aminoglycoside, tau = 60 d",0.010940543862167,0.006285608562422576
+follow-up (interval fixed),84,12,1.5,12,924,N fixed at 90,90,0.5375,0.135,"Aminoglycoside, tau = 60 d",0.011148850837642416,0.0076411713761700174
+follow-up (interval fixed),84,16,1.5,16,1260,N fixed at 90,90,0.645,0.1625,"Aminoglycoside, tau = 60 d",0.010699883176932354,0.00824905297594821
+follow-up (interval fixed),84,24,1.5,24,1932,N fixed at 90,90,0.815,0.25,"Aminoglycoside, tau = 60 d",0.008682597537603596,0.009682458365518542
+follow-up (interval fixed),84,32,1.5,32,2604,N fixed at 90,90,0.9215,0.3185,"Aminoglycoside, tau = 60 d",0.006014056451347959,0.010417719280149566
+follow-up (interval fixed),84,48,1.5,48,3948,N fixed at 90,90,0.9745,0.4445,"Aminoglycoside, tau = 60 d",0.00352489361541593,0.011111249929688378
+depth,84,12,1,1,924,N fixed at 90,90,0.515,0.1185,"Aminoglycoside, tau = 60 d",0.01117530760203047,0.007226954752867904
+depth,84,12,1.5,1.5,924,N fixed at 90,90,0.5475,0.135,"Aminoglycoside, tau = 60 d",0.011129774256470793,0.0076411713761700174
+depth,84,12,2,2,924,N fixed at 90,90,0.6055,0.1455,"Aminoglycoside, tau = 60 d",0.010928626400421967,0.007884470495854494
+depth,84,12,3,3,924,N fixed at 90,90,0.622,0.1665,"Aminoglycoside, tau = 60 d",0.01084241670477574,0.008329998499399626
+depth,84,12,4,4,924,N fixed at 90,90,0.636,0.1795,"Aminoglycoside, tau = 60 d",0.010758810343155975,0.008581367897951934
+depth,84,12,6,6,924,N fixed at 90,90,0.6585,0.1965,"Aminoglycoside, tau = 60 d",0.010603719866160178,0.008885036578427801
+depth,84,12,8,8,924,N fixed at 90,90,0.6785,0.2095,"Aminoglycoside, tau = 60 d",0.010443604502277937,0.009099718402236412
+interval (L fixed),14,12,1.5,14,154,fixed cost: base,90,0.406,0.0745,"Aminoglycoside, tau = 60 d",0.010980983562504773,0.005871530890662162
+interval (L fixed),28,12,1.5,28,308,fixed cost: base,90,0.43,0.1125,"Aminoglycoside, tau = 60 d",0.011070230349906908,0.0070655413805312895
+interval (L fixed),42,12,1.5,42,462,fixed cost: base,90,0.462,0.136,"Aminoglycoside, tau = 60 d",0.011148004305704229,0.00766498532288223
+interval (L fixed),56,12,1.5,56,616,fixed cost: base,90,0.502,0.135,"Aminoglycoside, tau = 60 d",0.011180250444422075,0.0076411713761700174
+interval (L fixed),84,12,1.5,84,924,fixed cost: base,90,0.5485,0.125,"Aminoglycoside, tau = 60 d",0.011127617669564317,0.00739509972887452
+interval (L fixed),126,12,1.5,126,1386,fixed cost: base,90,0.5935,0.098,"Aminoglycoside, tau = 60 d",0.01098311772676593,0.006648157639526909
+interval (L fixed),168,12,1.5,168,1848,fixed cost: base,90,0.61,0.079,"Aminoglycoside, tau = 60 d",0.01090642012761291,0.006031542091372653
+visits (follow-up fixed),308,4,1.5,4,924,fixed cost: base,164,0.429,0.056,"Aminoglycoside, tau = 60 d",0.011067045676240792,0.005141206084179081
+visits (follow-up fixed),184.8,6,1.5,6,924,fixed cost: base,136,0.508,0.055,"Aminoglycoside, tau = 60 d",0.011178908712392278,0.005097793640389928
+visits (follow-up fixed),132,8,1.5,8,924,fixed cost: base,116,0.515,0.085,"Aminoglycoside, tau = 60 d",0.01117530760203047,0.0062359842847781455
+visits (follow-up fixed),84,12,1.5,12,924,fixed cost: base,90,0.535,0.1325,"Aminoglycoside, tau = 60 d",0.011152914417317117,0.007581020709640622
+visits (follow-up fixed),61.6,16,1.5,16,924,fixed cost: base,73,0.5185,0.164,"Aminoglycoside, tau = 60 d",0.011172684323831941,0.0082796135175502
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,fixed cost: base,53,0.436,0.192,"Aminoglycoside, tau = 60 d",0.011088372288122365,0.008807269724494646
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,fixed cost: base,42,0.3955,0.1845,"Aminoglycoside, tau = 60 d",0.010933429242465514,0.00867351572316555
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,fixed cost: base,29,0.282,0.1535,"Aminoglycoside, tau = 60 d",0.010061709596286309,0.00806032722660811
+follow-up (interval fixed),84,4,1.5,4,252,fixed cost: base,164,0.402,0.074,"Aminoglycoside, tau = 60 d",0.010963484847437881,0.005853375094763704
+follow-up (interval fixed),84,6,1.5,6,420,fixed cost: base,136,0.478,0.0805,"Aminoglycoside, tau = 60 d",0.0111695120752878,0.006083574196144894
+follow-up (interval fixed),84,8,1.5,8,588,fixed cost: base,116,0.5135,0.1045,"Aminoglycoside, tau = 60 d",0.011176263910627737,0.006840312492861711
+follow-up (interval fixed),84,12,1.5,12,924,fixed cost: base,90,0.549,0.1315,"Aminoglycoside, tau = 60 d",0.011126522367748155,0.007556710593902615
+follow-up (interval fixed),84,16,1.5,16,1260,fixed cost: base,73,0.556,0.1465,"Aminoglycoside, tau = 60 d",0.011109995499549044,0.007906887820122402
+follow-up (interval fixed),84,24,1.5,24,1932,fixed cost: base,53,0.576,0.1605,"Aminoglycoside, tau = 60 d",0.011050429855892484,0.008207915386990781
+follow-up (interval fixed),84,32,1.5,32,2604,fixed cost: base,42,0.587,0.167,"Aminoglycoside, tau = 60 d",0.011009791097019054,0.008339994004794009
+follow-up (interval fixed),84,48,1.5,48,3948,fixed cost: base,29,0.593,0.191,"Aminoglycoside, tau = 60 d",0.010985240097512661,0.008789738335126933
+depth,84,12,1,1,924,fixed cost: base,99,0.527,0.1355,"Aminoglycoside, tau = 60 d",0.011164027051203344,0.007653095778833557
+depth,84,12,1.5,1.5,924,fixed cost: base,90,0.506,0.147,"Aminoglycoside, tau = 60 d",0.01117953487404552,0.007918049002121673
+depth,84,12,2,2,924,fixed cost: base,82,0.5465,0.1485,"Aminoglycoside, tau = 60 d",0.011131885509651992,0.007951344225978398
+depth,84,12,3,3,924,fixed cost: base,69,0.508,0.153,"Aminoglycoside, tau = 60 d",0.011178908712392278,0.008049565205649308
+depth,84,12,4,4,924,fixed cost: base,60,0.471,0.1295,"Aminoglycoside, tau = 60 d",0.011161518713866855,0.007507654427316164
+depth,84,12,6,6,924,fixed cost: base,48,0.39,0.142,"Aminoglycoside, tau = 60 d",0.01090642012761291,0.007804998398462359
+depth,84,12,8,8,924,fixed cost: base,39,0.3325,0.1205,"Aminoglycoside, tau = 60 d",0.010534318914861084,0.007279414468211024
+interval (L fixed),14,12,1.5,14,154,N fixed at 90,90,0.669,0.0560280140070035,"Aminoglycoside, tau = 480 d",0.010522333391410862,0.005142415563401821
+interval (L fixed),28,12,1.5,28,308,N fixed at 90,90,0.514,0.084,"Aminoglycoside, tau = 480 d",0.011175956334918278,0.0062025801083097675
+interval (L fixed),42,12,1.5,42,462,N fixed at 90,90,0.468,0.1475,"Aminoglycoside, tau = 480 d",0.011157419056394719,0.007929178709046731
+interval (L fixed),56,12,1.5,56,616,N fixed at 90,90,0.456,0.274,"Aminoglycoside, tau = 480 d",0.011136965475388708,0.00997306372184596
+interval (L fixed),84,12,1.5,84,924,N fixed at 90,90,0.4045,0.5525,"Aminoglycoside, tau = 480 d",0.010974510239641676,0.011118537448783451
+interval (L fixed),126,12,1.5,126,1386,N fixed at 90,90,0.4025,0.8485,"Aminoglycoside, tau = 480 d",0.010965713611069731,0.008017098914195832
+interval (L fixed),168,12,1.5,168,1848,N fixed at 90,90,0.4025,0.943,"Aminoglycoside, tau = 480 d",0.010965713611069731,0.005184158562389852
+visits (follow-up fixed),308,4,1.5,4,924,N fixed at 90,90,0.246,0.308,"Aminoglycoside, tau = 480 d",0.009630264793867301,0.010323177805307822
+visits (follow-up fixed),184.8,6,1.5,6,924,N fixed at 90,90,0.3225,0.459,"Aminoglycoside, tau = 480 d",0.010452122990091534,0.01114268818553225
+visits (follow-up fixed),132,8,1.5,8,924,N fixed at 90,90,0.363,0.4865,"Aminoglycoside, tau = 480 d",0.010752464833702085,0.011176263910627739
+visits (follow-up fixed),84,12,1.5,12,924,N fixed at 90,90,0.4155,0.543,"Aminoglycoside, tau = 480 d",0.011019522448817825,0.011138918259867068
+visits (follow-up fixed),61.6,16,1.5,16,924,N fixed at 90,90,0.413,0.575,"Aminoglycoside, tau = 480 d",0.011009791097019052,0.011053845484717072
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,N fixed at 90,90,0.474,0.583,"Aminoglycoside, tau = 480 d",0.011165213835838524,0.011025221086218635
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,N fixed at 90,90,0.488,0.594,"Aminoglycoside, tau = 480 d",0.011177119485806708,0.010980983562504773
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,N fixed at 90,90,0.49,0.5925,"Aminoglycoside, tau = 480 d",0.011178103595869918,0.01098735068157925
+follow-up (interval fixed),84,4,1.5,4,252,N fixed at 90,90,0.328,0.04850934815563416,"Aminoglycoside, tau = 480 d",0.01049799980948752,0.0048039666577293
+follow-up (interval fixed),84,6,1.5,6,420,N fixed at 90,90,0.3775,0.12256128064032017,"Aminoglycoside, tau = 480 d",0.010839597547879718,0.007332803458709528
+follow-up (interval fixed),84,8,1.5,8,588,N fixed at 90,90,0.386,0.2385,"Aminoglycoside, tau = 480 d",0.01088586239119345,0.009529369076701773
+follow-up (interval fixed),84,12,1.5,12,924,N fixed at 90,90,0.4045,0.5365,"Aminoglycoside, tau = 480 d",0.010974510239641676,0.011150510078018852
+follow-up (interval fixed),84,16,1.5,16,1260,N fixed at 90,90,0.432,0.818,"Aminoglycoside, tau = 480 d",0.011076461528845753,0.008627745939699432
+follow-up (interval fixed),84,24,1.5,24,1932,N fixed at 90,90,0.4575,0.9795,"Aminoglycoside, tau = 480 d",0.011139877692326787,0.0031685761786644775
+follow-up (interval fixed),84,32,1.5,32,2604,N fixed at 90,90,0.496,0.9995,"Aminoglycoside, tau = 480 d",0.011179982110898032,4.99874984371065e-4
+follow-up (interval fixed),84,48,1.5,48,3948,N fixed at 90,90,0.59,1,"Aminoglycoside, tau = 480 d",0.010997727037892875,0
+depth,84,12,1,1,924,N fixed at 90,90,0.374,0.4255,"Aminoglycoside, tau = 480 d",0.010819519397829092,0.011055535943589528
+depth,84,12,1.5,1.5,924,N fixed at 90,90,0.413,0.569,"Aminoglycoside, tau = 480 d",0.011009791097019052,0.01107336895438782
+depth,84,12,2,2,924,N fixed at 90,90,0.438,0.6625,"Aminoglycoside, tau = 480 d",0.01109405246066558,0.010573404134903763
+depth,84,12,3,3,924,N fixed at 90,90,0.4475,0.748,"Aminoglycoside, tau = 480 d",0.011118537448783451,0.009708140913686821
+depth,84,12,4,4,924,N fixed at 90,90,0.4515,0.811,"Aminoglycoside, tau = 480 d",0.011127617669564317,0.00875439889427024
+depth,84,12,6,6,924,N fixed at 90,90,0.4735,0.8535,"Aminoglycoside, tau = 480 d",0.011164626057329461,0.007906887820122402
+depth,84,12,8,8,924,N fixed at 90,90,0.4775,0.863,"Aminoglycoside, tau = 480 d",0.011169014056755413,0.007688660481514319
+interval (L fixed),14,12,1.5,14,154,fixed cost: base,90,0.662,0.048,"Aminoglycoside, tau = 480 d",0.010577239715540155,0.0047799581588126895
+interval (L fixed),28,12,1.5,28,308,fixed cost: base,90,0.533,0.079,"Aminoglycoside, tau = 480 d",0.011155962531310331,0.006031542091372653
+interval (L fixed),42,12,1.5,42,462,fixed cost: base,90,0.4575,0.1505,"Aminoglycoside, tau = 480 d",0.011139877692326787,0.007995303308818247
+interval (L fixed),56,12,1.5,56,616,fixed cost: base,90,0.4455,0.273,"Aminoglycoside, tau = 480 d",0.011113724623185514,0.009961701661864804
+interval (L fixed),84,12,1.5,84,924,fixed cost: base,90,0.4195,0.53,"Aminoglycoside, tau = 480 d",0.011034485715247448,0.011160197130875422
+interval (L fixed),126,12,1.5,126,1386,fixed cost: base,90,0.4015,0.833,"Aminoglycoside, tau = 480 d",0.010961244226820238,0.008339994004794009
+interval (L fixed),168,12,1.5,168,1848,fixed cost: base,90,0.396,0.94,"Aminoglycoside, tau = 480 d",0.010935812726999306,0.005310367218940704
+visits (follow-up fixed),308,4,1.5,4,924,fixed cost: base,164,0.431,0.519,"Aminoglycoside, tau = 480 d",0.011073368954387819,0.01117226476592817
+visits (follow-up fixed),184.8,6,1.5,6,924,fixed cost: base,136,0.4525,0.6125,"Aminoglycoside, tau = 480 d",0.011129774256470793,0.01089366214824014
+visits (follow-up fixed),132,8,1.5,8,924,fixed cost: base,116,0.44,0.6235,"Aminoglycoside, tau = 480 d",0.011099549540409287,0.01083392241988099
+visits (follow-up fixed),84,12,1.5,12,924,fixed cost: base,90,0.4025,0.556,"Aminoglycoside, tau = 480 d",0.010965713611069731,0.011109995499549044
+visits (follow-up fixed),61.6,16,1.5,16,924,fixed cost: base,73,0.375,0.4845,"Aminoglycoside, tau = 480 d",0.010825317547305483,0.011174966442902638
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,fixed cost: base,53,0.296,0.3705,"Aminoglycoside, tau = 480 d",0.01020744826095141,0.010798836742908931
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,fixed cost: base,42,0.238,0.293,"Aminoglycoside, tau = 480 d",0.00952249967182987,0.010177204920802175
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,fixed cost: base,29,0.189,0.2085,"Aminoglycoside, tau = 480 d",0.00875439889427024,0.009083714823793183
+follow-up (interval fixed),84,4,1.5,4,252,fixed cost: base,164,0.578,0.077,"Aminoglycoside, tau = 480 d",0.011043459602859965,0.0059611659933271445
+follow-up (interval fixed),84,6,1.5,6,420,fixed cost: base,136,0.532,0.166,"Aminoglycoside, tau = 480 d",0.011157419056394717,0.008319975961503736
+follow-up (interval fixed),84,8,1.5,8,588,fixed cost: base,116,0.484,0.2965,"Aminoglycoside, tau = 480 d",0.011174614087296258,0.010212437270309179
+follow-up (interval fixed),84,12,1.5,12,924,fixed cost: base,90,0.3955,0.573,"Aminoglycoside, tau = 480 d",0.010933429242465514,0.011060537961600241
+follow-up (interval fixed),84,16,1.5,16,1260,fixed cost: base,73,0.3515,0.712,"Aminoglycoside, tau = 480 d",0.010675854766715403,0.010125611092669913
+follow-up (interval fixed),84,24,1.5,24,1932,fixed cost: base,53,0.2825,0.884,"Aminoglycoside, tau = 480 d",0.010067118505312231,0.0071604469134265636
+follow-up (interval fixed),84,32,1.5,32,2604,fixed cost: base,42,0.2375,0.9175,"Aminoglycoside, tau = 480 d",0.009515612171584127,0.0061519813881382975
+follow-up (interval fixed),84,48,1.5,48,3948,fixed cost: base,29,0.207,0.945,"Aminoglycoside, tau = 480 d",0.00905955296910394,0.005097793640389931
+depth,84,12,1,1,924,fixed cost: base,99,0.4075,0.512,"Aminoglycoside, tau = 480 d",0.01098735068157925,0.011177119485806708
+depth,84,12,1.5,1.5,924,fixed cost: base,90,0.4095,0.5295,"Aminoglycoside, tau = 480 d",0.010995675286220486,0.011160863541859115
+depth,84,12,2,2,924,fixed cost: base,82,0.4045,0.6195,"Aminoglycoside, tau = 480 d",0.010974510239641676,0.010856328799368596
+depth,84,12,3,3,924,fixed cost: base,69,0.3545,0.637,"Aminoglycoside, tau = 480 d",0.010696488909918056,0.010752464833702085
+depth,84,12,4,4,924,fixed cost: base,60,0.3225,0.6415,"Aminoglycoside, tau = 480 d",0.010452122990091534,0.010723286576418632
+depth,84,12,6,6,924,fixed cost: base,48,0.2545,0.5525,"Aminoglycoside, tau = 480 d",0.009739860111931793,0.011118537448783451
+depth,84,12,8,8,924,fixed cost: base,39,0.228,0.472,"Aminoglycoside, tau = 480 d",0.009381257911389069,0.011162795348836239
+interval (L fixed),14,12,1.5,14,154,N fixed at 90,90,0.981,0.074,Cephalosporin (fitted),0.0030527856131736483,0.005853375094763704
+interval (L fixed),28,12,1.5,28,308,N fixed at 90,90,0.9605,0.1355,Cephalosporin (fitted),0.004355441998236229,0.007653095778833557
+interval (L fixed),42,12,1.5,42,462,N fixed at 90,90,0.951,0.273,Cephalosporin (fitted),0.004826955562256609,0.009961701661864804
+interval (L fixed),56,12,1.5,56,616,N fixed at 90,90,0.941,0.433,Cephalosporin (fitted),0.005268728499363013,0.011079508111825181
+interval (L fixed),84,12,1.5,84,924,N fixed at 90,90,0.9485,0.658,Cephalosporin (fitted),0.004942051699446293,0.010607450211997226
+interval (L fixed),126,12,1.5,126,1386,N fixed at 90,90,0.9555,0.82,Cephalosporin (fitted),0.004610843198374891,0.008590692637965813
+interval (L fixed),168,12,1.5,168,1848,N fixed at 90,90,0.973,0.8715,Cephalosporin (fitted),0.0036242930345103184,0.007482905518580331
+visits (follow-up fixed),308,4,1.5,4,924,N fixed at 90,90,0.7135,0.1775,Cephalosporin (fitted),0.010109840503192916,0.008543820866567839
+visits (follow-up fixed),184.8,6,1.5,6,924,N fixed at 90,90,0.8315,0.3865,Cephalosporin (fitted),0.008369819293150838,0.010888474411045838
+visits (follow-up fixed),132,8,1.5,8,924,N fixed at 90,90,0.89,0.54,Cephalosporin (fitted),0.006996427659884721,0.011144505372604026
+visits (follow-up fixed),84,12,1.5,12,924,N fixed at 90,90,0.945,0.6785,Cephalosporin (fitted),0.005097793640389931,0.010443604502277937
+visits (follow-up fixed),61.6,16,1.5,16,924,N fixed at 90,90,0.9675,0.745,Cephalosporin (fitted),0.00396508196636589,0.009746153087244218
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,N fixed at 90,90,0.9795,0.811,Cephalosporin (fitted),0.0031685761786644775,0.00875439889427024
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,N fixed at 90,90,0.981,0.8275,Cephalosporin (fitted),0.0030527856131736483,0.008448187675472178
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,N fixed at 90,90,0.984,0.8755,Cephalosporin (fitted),0.00280570846668003,0.007382403064043579
+follow-up (interval fixed),84,4,1.5,4,252,N fixed at 90,90,0.7655,0.0905,Cephalosporin (fitted),0.009473904949913736,0.006415206543830058
+follow-up (interval fixed),84,6,1.5,6,420,N fixed at 90,90,0.8485,0.193,Cephalosporin (fitted),0.008017098914195832,0.008824709626950906
+follow-up (interval fixed),84,8,1.5,8,588,N fixed at 90,90,0.8835,0.353,Cephalosporin (fitted),0.007173832657652395,0.010686229456641851
+follow-up (interval fixed),84,12,1.5,12,924,N fixed at 90,90,0.953,0.6985,Cephalosporin (fitted),0.004732388403332932,0.010261524009619624
+follow-up (interval fixed),84,16,1.5,16,1260,N fixed at 90,90,0.9765,0.8665,Cephalosporin (fitted),0.0033873108803297025,0.0076051873744175415
+follow-up (interval fixed),84,24,1.5,24,1932,N fixed at 90,90,0.992,0.9865,Cephalosporin (fitted),0.001991983935678198,0.0025804796065847873
+follow-up (interval fixed),84,32,1.5,32,2604,N fixed at 90,90,0.998,0.9985,Cephalosporin (fitted),9.989994994993746e-4,8.653756409790912e-4
+follow-up (interval fixed),84,48,1.5,48,3948,N fixed at 90,90,1,1,Cephalosporin (fitted),0,0
+depth,84,12,1,1,924,N fixed at 90,90,0.9245,0.5355,Cephalosporin (fitted),0.005907611615534657,0.011152124237112856
+depth,84,12,1.5,1.5,924,N fixed at 90,90,0.9435,0.6705,Cephalosporin (fitted),0.005162739098579358,0.010510227162150207
+depth,84,12,2,2,924,N fixed at 90,90,0.9685,0.8265,Cephalosporin (fitted),0.0039056209493497944,0.008467518821945422
+depth,84,12,3,3,924,N fixed at 90,90,0.9835,0.9305,Cephalosporin (fitted),0.002848486440199423,0.005686376262612245
+depth,84,12,4,4,924,N fixed at 90,90,0.987,0.9635,Cephalosporin (fitted),0.0025328837320335107,0.004193313129257102
+depth,84,12,6,6,924,N fixed at 90,90,0.9895,0.9875,Cephalosporin (fitted),0.0022792268425937726,0.0024843258642939696
+depth,84,12,8,8,924,N fixed at 90,90,0.9885,0.994,Cephalosporin (fitted),0.0023840878758971907,0.0017268468374467964
+interval (L fixed),14,12,1.5,14,154,fixed cost: base,90,0.986,0.062,Cephalosporin (fitted),0.0026271657732240663,0.005392402062161166
+interval (L fixed),28,12,1.5,28,308,fixed cost: base,90,0.9605,0.1545,Cephalosporin (fitted),0.004355441998236229,0.008081761874739938
+interval (L fixed),42,12,1.5,42,462,fixed cost: base,90,0.948,0.264,Cephalosporin (fitted),0.0049646752159632785,0.009856571412007322
+interval (L fixed),56,12,1.5,56,616,fixed cost: base,90,0.948,0.4275,Cephalosporin (fitted),0.0049646752159632785,0.011062182198824967
+interval (L fixed),84,12,1.5,84,924,fixed cost: base,90,0.943,0.6685,Cephalosporin (fitted),0.005184158562389852,0.010526341957204316
+interval (L fixed),126,12,1.5,126,1386,fixed cost: base,90,0.954,0.8045,Cephalosporin (fitted),0.0046842288586276416,0.008867912663079175
+interval (L fixed),168,12,1.5,168,1848,fixed cost: base,90,0.977,0.8645,Cephalosporin (fitted),0.0033519397369284566,0.007653095778833555
+visits (follow-up fixed),308,4,1.5,4,924,fixed cost: base,164,0.929,0.2705,Cephalosporin (fitted),0.005742778073371805,0.009933019430163217
+visits (follow-up fixed),184.8,6,1.5,6,924,fixed cost: base,136,0.958,0.5405,Cephalosporin (fitted),0.00448530935387962,0.011143602424709884
+visits (follow-up fixed),132,8,1.5,8,924,fixed cost: base,116,0.9595,0.6475,Cephalosporin (fitted),0.004407933189148855,0.01068278404724162
+visits (follow-up fixed),84,12,1.5,12,924,fixed cost: base,90,0.955,0.663,Cephalosporin (fitted),0.004635461142108735,0.01056955533596376
+visits (follow-up fixed),61.6,16,1.5,16,924,fixed cost: base,73,0.9215,0.6465,Cephalosporin (fitted),0.006014056451347959,0.010689662062011128
+visits (follow-up fixed),40.17391304347826,24,1.5,24,923.9999999999999,fixed cost: base,53,0.862,0.5535,Cephalosporin (fitted),0.007712198130234985,0.011116153786269782
+visits (follow-up fixed),29.806451612903224,32,1.5,32,924,fixed cost: base,42,0.8105,0.5005,Cephalosporin (fitted),0.008763268511234835,0.011180334297327607
+visits (follow-up fixed),19.659574468085108,48,1.5,48,924.0000000000001,fixed cost: base,29,0.6745,0.4095,Cephalosporin (fitted),0.01047735057159013,0.010995675286220486
+follow-up (interval fixed),84,4,1.5,4,252,fixed cost: base,164,0.951,0.105,Cephalosporin (fitted),0.004826955562256609,0.006854742883580682
+follow-up (interval fixed),84,6,1.5,6,420,fixed cost: base,136,0.9595,0.245,Cephalosporin (fitted),0.004407933189148855,0.00961704216482386
+follow-up (interval fixed),84,8,1.5,8,588,fixed cost: base,116,0.958,0.404,Cephalosporin (fitted),0.00448530935387962,0.010972328832112169
+follow-up (interval fixed),84,12,1.5,12,924,fixed cost: base,90,0.947,0.671,Cephalosporin (fitted),0.005009540897128201,0.010506164856882837
+follow-up (interval fixed),84,16,1.5,16,1260,fixed cost: base,73,0.943,0.7945,Cephalosporin (fitted),0.005184158562389852,0.00903520198999447
+follow-up (interval fixed),84,24,1.5,24,1932,fixed cost: base,53,0.9285,0.9055,Cephalosporin (fitted),0.005761412587204635,0.006541014829519959
+follow-up (interval fixed),84,32,1.5,32,2604,fixed cost: base,42,0.926,0.9295,Cephalosporin (fitted),0.005853375094763702,0.005724061058374553
+follow-up (interval fixed),84,48,1.5,48,3948,fixed cost: base,29,0.9025,0.9505,Cephalosporin (fitted),0.006633014020790248,0.004850244839180801
+depth,84,12,1,1,924,fixed cost: base,99,0.9405,0.592,Cephalosporin (fitted),0.005289600646551685,0.010989449485756782
+depth,84,12,1.5,1.5,924,fixed cost: base,90,0.951,0.6375,Cephalosporin (fitted),0.004826955562256609,0.010749273231246846
+depth,84,12,2,2,924,fixed cost: base,82,0.9515,0.8015,Cephalosporin (fitted),0.004803527349771207,0.008919017602852906
+depth,84,12,3,3,924,fixed cost: base,69,0.938,0.846,Cephalosporin (fitted),0.005392402062161169,0.008071059410015517
+depth,84,12,4,4,924,fixed cost: base,60,0.916,0.851,Cephalosporin (fitted),0.006202580108309766,0.007962380297373393
+depth,84,12,6,6,924,fixed cost: base,48,0.8705,0.8555,Cephalosporin (fitted),0.007507654427316162,0.00786192565469809
+depth,84,12,8,8,924,fixed cost: base,39,0.807,0.813,Cephalosporin (fitted),0.008824709626950906,0.00871868682772813
